@@ -1,0 +1,98 @@
+Machine Learning Engineering
+
+Bootcamp
+
+Your Final Submission
+
+Summary
+Time Estimate: 2 - 4 hours
+
+Final Deliverables
+
+The final deliverables for your project, such as your code and application (please see the project
+evaluation section below), are part of your portfolio, which means that you’ll be sharing them
+with potential employers.
+When you and your mentor agree on a stopping point for the project, you should have the
+following deliverables ready before asking your student advisor to start the completion process.
+
+This document is authorized for use only by Artem Yankov (yankovai3@gmail.com). Copying or posting is an infringement of
+
+copyright.
+
+Mandatory deliverables
+● Code for your project, well-documented on GitHub. We’ve provided some guidelines for
+what a good GitHub should look like below.
+● An application that is deployed on a cloud platform. This application must be accessible
+using an API or a web service. Your GitHub README should contain instructions on how
+to access and use the application.
+Optional deliverables
+● A frontend web interface for your application. This is optional but can make the
+visualization of your work more compelling. However, if you don’t have any web
+development skills, we recommend you focus on your core MLE skills and not spend
+time on this task.
+● A blog post summarizing your project. Blog posts help students get exposure to
+potential employers and sets you up as a voice in the community.
+Blog posts are a great way to generate awareness of your work and your brand as a
+machine learning engineer. You’re encouraged to post on your own blog, Medium,
+LinkedIn, or other platforms.
+
+Guidelines for Strong Portfolio
+
+Your portfolio consists of all of your projects, including the code and documentation, usually in
+your GitHub account. Typically, a hiring manager who looks at your portfolio wants to see
+evidence of both technical and communication skills. It is your responsibility to ensure that your
+portfolio is clear and easy to navigate.
+
+Tips to Help Your Portfolio Stand Out
+
+1. Every project should ideally be in a separate repository that is clearly named.
+2. For each project:
+a. Have a README page:
+i. The README should provide an executive summary of the project (i.e.
+summarizes the problem, approach, and results).
+ii. The README should also include a list of the important files that the
+reader should view. The files should be clearly named and organized.
+
+b. Clean up your code and document:
+i. Your approach and methodology are clear to any technical reader. You do
+not need to document every line of your code, but have comments or text
+explaining important decision points and why you chose them.
+
+c. Include any other documents that you have created (e.g. a report or slide deck in
+the same repository as the code).
+i. Make sure the README points them out to the reader.
+
+This document is authorized for use only by Artem Yankov (yankovai3@gmail.com). Copying or posting is an infringement of
+
+copyright.
+
+3. Ensure that your portfolio is not cluttered with “junk” (i.e. repositories or folders that are
+incomplete, irrelevant, or undocumented).
+Overall, try to put yourself in the shoes of an experienced machine learning engineer or hiring
+manager who has a limited amount of time to look at your portfolio. How can you ensure that
+you make it easy for them to get a good idea of your skills and abilities? Your course TA, mentor,
+and the community should also be able to provide good feedback on your portfolio, so please
+use them as resources.
+
+Project Evaluation
+
+For Springboard to consider your workshop complete and issue a certificate of completion, your
+mentor needs to approve your final project submissions based on the rubric listed below. If the
+project is not approved, please discuss the feedback from your mentor and resubmit in case
+improvements are necessary. Your student advisor will not be able to process your workshop
+completion until your project is approved by your mentor!
+Capstone Project Rubric
+
+We use the following rubric for evaluating final capstone projects. Please take a good look at it
+and make sure you discuss with your mentor to agree on success criteria.
+View the Capstone Project Rubric here.
+Your capstone project is evaluated based on two criteria: completion and
+process/understanding. Within each criterion, specific benchmarks and expectations are listed
+to help ensure the overall quality and mentor approval of your capstone project.
+Because your mentor approves each step and later the entirety of your capstone, it’s vital that
+you work with your mentor throughout the course to determine and agree what the bar is for
+each criterion and to incorporate timely feedback during the intermediate stages.
+
+This document is authorized for use only by Artem Yankov (yankovai3@gmail.com). Copying or posting is an infringement of
+
+copyright.
