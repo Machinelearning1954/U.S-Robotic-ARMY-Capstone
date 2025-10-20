@@ -3,7 +3,7 @@
 **Project:** Autonomous Military Vehicle Recognition and Tactical AI System  
 **Step:** 4 - Survey Existing Research and Reproduce Available Solutions  
 **Date:** October 11, 2025  
-**Author:** Manus AI
+**Author:** Brandon Patterson
 
 ---
 
